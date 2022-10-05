@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'Dionisio.apps.DionisioConfig',
     'sobre.apps.SobreConfig',
+    'Home.apps.HomeConfig'
 ]
 
 MIDDLEWARE = [
